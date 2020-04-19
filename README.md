@@ -58,4 +58,5 @@ XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+Apt update && apt upgrade
 
